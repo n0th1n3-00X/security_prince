@@ -1,1 +1,2 @@
-# about-me
+I am a Security Consultant at SecureLayer7 currently living in India. My interests range from Information Security Research to Security Consulting
+Things i am looking forward to learn and research are IOT Hacking,Fuzzing,Writing Exploits yada yada yada....
