@@ -6,7 +6,7 @@ Technical skills i have are Vulnerability assessment and penetration testing, We
 
 Tools i have worked hands-on: Burpsuite, Kali linux, Nmap, Cycript, classdump-z, Nessus, Metasploit, Dex2jar, apktool, Nipper, Genymotion.
 
-Programming Languages i can communicate in includes Python, PHP,  C/C++, JavaScript, XML, HTML, CSS 
+Programming and Scripting Languages i can communicate in includes Python, BASH, PHP, C/C++, JavaScript, XML, HTML, CSS 
 
 I have been Acknowledged by Intel, Zenmate, Epic Privacy Browser, Eduonix & Eset for finding security vulnerabilities in their products.
 
