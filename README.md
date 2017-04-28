@@ -10,4 +10,6 @@ Programming Languages i can communicate in includes Python, PHP,  C/C++, JavaScr
 
 I have been Acknowledged by Intel, Zenmate, Epic Privacy Browser, Eduonix & Eset for finding security vulnerabilities in their products.
 
+Things i am interested in learning starts from IOT Hacking, Fuzzing, Exploit Writing and the list will continue forever....
+
 Also a Core Member at Hackers Day, Rajasthan and an active participant at Null and Owasp Chapter, Mumbai
