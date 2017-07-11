@@ -12,4 +12,4 @@ I have been Acknowledged by Intel, Zenmate, Epic Privacy Browser, Eduonix & Eset
 
 I am interested in learning various things starting from IOT Hacking, Fuzzing, Exploit Writing, and I intend to keep the list going on...
 
-Apart from these, I am also a Core Member at Hackers Day, Rajasthan and an active participant at Null and Owasp Chapter, Mumbai and Null as well as Garage4Hackers, Pune
+Apart from these, I am also a Core Member at Hackers Day, Rajasthan and an active participant at Null-The Open Security Community and Garage4Hackers, Pune
