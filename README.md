@@ -1,4 +1,4 @@
-I am an experienced Security Engineer with demonstrated skills in Penetration Testing, Vulnerability Assessment, Network Security and a Strong Information Technology professional with a Bachelor’s Degree in Information Technology,Mumbai University.
+I am an experienced Security Consultant with demonstrated skills in Penetration Testing, Vulnerability Assessment, Network Security and a Strong Information Technology professional with a Bachelor’s Degree in Information Technology,Mumbai University.
 
 I love to write about my work on my company blog: http://blog.securelayer7.net/author/ishaq/
 
