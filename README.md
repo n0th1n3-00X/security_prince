@@ -8,7 +8,7 @@ I have some hands-on experience on tools like Burpsuite, Nmap, Cycript, classdum
 
 Programming and Scripting Languages I can communicate in includes Python, BASH, PHP, C/C++, JavaScript, XML, HTML, CSS
 
-I have been Acknowledged by Intel, Zenmate, Epic Privacy Browser, Eduonix, Eset & Internshala for finding Security Vulnerabilities in their products.
+I have been Acknowledged by Intel, Zenmate, Epic Privacy Browser, Eduonix, Eset & [Internshala](https://internshala.com/hall_of_fame) for finding Security Vulnerabilities in their products.
 
 I am interested in learning various things starting from IOT Hacking, Fuzzing, Exploit Development, and I intend to keep the list going on...
 
