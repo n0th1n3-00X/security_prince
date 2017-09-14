@@ -1,6 +1,6 @@
 I am an experienced Security Consultant with demonstrated skills in Penetration Testing, Vulnerability Assessment, Network Security and a Strong Information Technology professional with a Bachelor’s Degree in Information Technology,Mumbai University.
 
-I love to write about my work on my company blog: http://blog.securelayer7.net/author/ishaq/ and also sometimes on my personal blog: https://securityprince.blogspot.in/
+I love to write about my work on my company blog: [a link](http://blog.securelayer7.net/author/ishaq/) and also sometimes on my personal blog: https://securityprince.blogspot.in/
 
 Technical skills I possess are Vulnerability assessment and penetration testing, Web and Mobile Application Penetration Testing, Secure Configuration Audit, Network security, Scripting
 
