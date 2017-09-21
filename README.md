@@ -6,7 +6,7 @@ Technical skills I possess are Vulnerability Assessment and Penetration Testing,
 
 I have some hands-on experience on tools like Burpsuite, Nmap, Cycript, classdump-z, Nessus, Metasploit, Dex2jar, apktool, Nipper, Genymotion.
 
-Programming and Scripting Languages I can communicate in includes Python, BASH, PHP, C/C++, JavaScript, XML, HTML, CSS
+Programming and Scripting Languages I can communicate in includes Python, BASH, PHP, C/C++, JavaScript, XML, HTML, CSS & Assembly
 
 Honered with [CVE-2017-14618](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-14618) & [CVE-2017-14618](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-14619) for finding and reporting vulnerabilites in [phpMyFAQ](http://www.phpmyfaq.de/)
 
