@@ -1,5 +1,7 @@
 I am an experienced Security Consultant with demonstrated skills in Penetration Testing, Vulnerability Assessment, Network Security and a Strong Information Technology professional with a Bachelor’s Degree in Information Technology, Mumbai University.
 
+Getting ready for an Offensive Battle by practicing on [hackthebox](https://www.hackthebox.eu/profile/477), [lab.pentestit.ru}(https://lab.pentestit.ru/profile/security-prince) and on [Vulnhub](https://www.vulnhub.com/) Sometimes.
+
 I love to write about my work on my company [blog](http://blog.securelayer7.net/author/ishaq/) and also sometimes on my personal [blog](https://securityprince.blogspot.in/).
 
 Technical skills I possess are Vulnerability Assessment and Penetration Testing, Web and Mobile Application Penetration Testing, Secure Configuration Audit, Network security, Scripting.
