@@ -10,10 +10,8 @@ I have some hands-on experience on tools like Burpsuite, Nmap, Cycript, classdum
 
 Programming and Scripting Languages I can communicate in includes Python, BASH, PHP, C/C++, JavaScript, XML, HTML, CSS & Assembly.
 
-Attributed with [CVE-2017-14618](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-14618), [CVE-2017-14619](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-14619) & [CVE-2017-15284](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15284)
+Attributed with [CVE-2017-14618](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-14618), [CVE-2017-14619](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-14619), [CVE-2017-15284](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15284), [CVE-2017-15878](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15878) & [CVE-2017-15879](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15879)
 
-I have been Acknowledged by Intel, Zenmate, Epic Privacy Browser, Eduonix, Eset, GroSum & [Internshala](https://internshala.com/hall_of_fame) for finding Security Vulnerabilities in their products.
+I have been Acknowledged by Intel, Zenmate, Epic Privacy Browser, Eduonix, Eset, GroSum, [Internshala](https://internshala.com/hall_of_fame) & [phpMyFAQ](http://www.phpmyfaq.de/security/advisory-2017-10-19)for finding Security Vulnerabilities in their products.
 
 I am interested in learning various things starting from IOT Hacking, Fuzzing, Exploit Development, and I intend to keep the list going on...
-
-Apart from these, I am also a Core Member at [Hackers Day, Rajasthan](https://www.hackersday.org/rajasthan/team) and an active participant at [Null-The Open Security Community](https://null.co.in/) and [Garage4Hackers](http://garage4hackers.com).
