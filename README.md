@@ -4,7 +4,7 @@ Getting ready for an Offensive Battle by practicing on [hackthebox](https://www.
 
 I love to write about my work on my company [blog](http://blog.securelayer7.net/author/ishaq/) and also sometimes on my personal [blog](https://securityprince.blogspot.in/).
 
-Technical skills I possess are Vulnerability Assessment and Penetration Testing, Web and Mobile Application Penetration Testing, Secure Configuration Audit, Network security, Scripting.
+Technical skills I possess are Vulnerability Assessment and Penetration Testing, Web,Mobile & Thick Client Application Penetration Testing, Secure Configuration Audit, Network Security, Scripting.
 
 I have some hands-on experience on tools like Burpsuite, Nmap, Cycript, classdump-z, Nessus, Metasploit, Dex2jar, apktool, Nipper, Genymotion.
 
