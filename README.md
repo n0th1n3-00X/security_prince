@@ -1,4 +1,4 @@
-I am an experienced Security Enthusiast with demonstrated skills in Penetration Testing, Vulnerability Assessment, Network Security and a Strong Information Technology professional with a Bachelor’s Degree in Information Technology, Mumbai University.
+I am an Experienced Security Enthusiast with demonstrated skills in Penetration Testing, Vulnerability Assessment, Network Security and a Strong Information Technology professional with a Bachelor’s Degree in Information Technology, Mumbai University.
 
 Getting ready for an Offensive Battle by practicing on [hackthebox](https://www.hackthebox.eu/profile/477), [lab.pentestit.ru](https://lab.pentestit.ru/profile/security-prince) and on [Vulnhub](https://www.vulnhub.com/) Sometimes.
 
