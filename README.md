@@ -6,7 +6,7 @@ I love to write about my work on my company [blog](http://blog.securelayer7.net/
 
 Technical skills I possess are Vulnerability Assessment and Penetration Testing, Web,Mobile & Thick Client Application Penetration Testing, Secure Configuration Audit, Network Security, Scripting.
 
-I have some hands-on experience on tools like Burpsuite, Nmap, Cycript, classdump-z, Nessus, Metasploit, Dex2jar, apktool, Nipper, Genymotion.
+I have some hands-on experience on tools like Burpsuite, Nmap, Cycript, classdump-z, Nessus, Metasploit, Dex2jar, apktool, EchoMirage, SysinternalsSuite, Nipper.
 
 Programming and Scripting Languages I can communicate in includes Python, BASH, PHP, C/C++, JavaScript, XML, HTML, CSS & Assembly.
 
