@@ -1,4 +1,4 @@
-                                 Pentester | Security Enthusiast | Learner
+Pentester | Security Enthusiast | Learner
 
 I am an Experienced Security Enthusiast with demonstrated skills in Penetration Testing, Vulnerability Assessment, Network Security and a Strong Information Technology professional with a Bachelor’s Degree in Information Technology, Mumbai University.
 
