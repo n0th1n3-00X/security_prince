@@ -1,4 +1,4 @@
-Pentester | Security Enthusiast | Learner
+Pentester || Security Enthusiast || Learner
 
 I am an Experienced Security Enthusiast with demonstrated skills in Penetration Testing, Vulnerability Assessment, Network Security and a Strong Information Technology professional with a Bachelor’s Degree in Information Technology, Mumbai University.
 
@@ -10,7 +10,7 @@ Technical skills I possess are Vulnerability Assessment and Penetration Testing,
 
 I have some hands-on experience on tools like Burpsuite, Nmap, Cycript, classdump-z, Nessus, Metasploit, Dex2jar, apktool, EchoMirage, SysinternalsSuite, Nipper.
 
-Programming and Scripting Languages I can communicate in includes Python, BASH, PHP, C/C++, JavaScript, XML, HTML, CSS & Assembly.
+Programming and Scripting Languages I can read & understand includes Python, BASH, PHP, C/C++, JavaScript, XML, HTML, CSS & Assembly.
 
 Attributed with [CVE-2017-14618](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-14618), [CVE-2017-14619](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-14619), [CVE-2017-15284](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15284), [CVE-2017-15878](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15878), [CVE-2017-15879](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15879), [CVE-2017-16807](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-16807), [CVE-2017-18048](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-18048) & [CVE-2017-18049](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-18049)
 
