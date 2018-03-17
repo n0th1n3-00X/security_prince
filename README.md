@@ -4,7 +4,7 @@ I am an Experienced Security Enthusiast with demonstrated skills in Penetration 
 
 Getting ready for an Offensive Battle by practicing on [hackthebox](https://www.hackthebox.eu/profile/477), [lab.pentestit.ru](https://lab.pentestit.ru/profile/security-prince) and on [Vulnhub](https://www.vulnhub.com/) Sometimes.
 
-You can read about my work and learnings here [blog](http://blog.securelayer7.net/author/ishaq/) and also on my personal [blog](https://securityprince.blogspot.in/).
+You can read about my work and learnings [here](http://blog.securelayer7.net/author/ishaq/) and also on my personal [blog](https://securityprince.blogspot.in/).
 
 Technical skills I possess are Vulnerability Assessment and Penetration Testing, Web,Mobile & Thick Client Application Penetration Testing, Secure Configuration Audit, Network Security, Scripting.
 
