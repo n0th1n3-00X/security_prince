@@ -2,9 +2,9 @@ Pentester Security Enthusiast Learner
 
 I am working as a Product Security Analyst at [Qualys](http://www.qualys.com/). My role is to make sure the Qualys’s products and services are secure, safe and free from commonly seen client/server side vulnerabilities.
 
-Prior to Qualys, I was helping [SecureLayer7 Technologies](https://securelayer7.net/), a consulting firm, with penetration testing, vulnerability assessment, threat modeling and static application security (SAST).
+Prior to Qualys, I was helping [SecureLayer7 Technologies](https://securelayer7.net/), a consulting firm, with penetration testing, vulnerability assessment,static and dynamic application security testing.
 
-At Qualys, I am responsible for Static Application Security (SAST), Interactive Application Security (IAST) for entire Qualys’s product portfolio.
+At Qualys, I am responsible for Static Application Security testing (SAST), Dynamic Application Security testing (DAST) for entire Qualys’s product portfolio.
 
 Apart from work related activities, I play ctfs on [hackthebox](https://www.hackthebox.eu/profile/477
 ) & [lab.pentestit.ru](https://lab.pentestit.ru/profile/security-prince) and open source security research.
