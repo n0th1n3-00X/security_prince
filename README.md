@@ -6,7 +6,7 @@ Prior to Qualys, I was helping [SecureLayer7 Technologies](https://securelayer7.
 
 At Qualys, I am responsible for Static Application Security (SAST), Interactive Application Security (IAST) for entire Qualys’s product portfolio.
 
-Apart from work related activities, I play ctfs[hackthebox](https://www.hackthebox.eu/profile/477
+Apart from work related activities, I play ctfs on [hackthebox](https://www.hackthebox.eu/profile/477
 ) & [lab.pentestit.ru](https://lab.pentestit.ru/profile/security-prince) and open source security research.
 
 You can read about my work and learnings [here](http://blog.securelayer7.net/author/ishaq/) and also on my personal [blog](https://securityprince.blogspot.in/).
