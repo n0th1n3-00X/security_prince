@@ -1,4 +1,4 @@
-Pentester | Security Enthusiast | Learner
+Pentester Security Enthusiast Learner
 
 Myself Ishaq Mohammed,
 I am working as a Product Security Analyst at [Qualys](http://www.qualys.com/), a leading provider of information security and compliance cloud solutions. My role is to make sure the Qualys’s products and services are secure, safe and free from commonly seen client/server side vulnerabilities.
