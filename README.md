@@ -1,5 +1,6 @@
-Pentester Security Enthusiast Learner
+Pentester | Security Enthusiast | Learner
 
+Myself Ishaq Mohammed,
 I am working as a Product Security Analyst at [Qualys](http://www.qualys.com/), a leading provider of information security and compliance cloud solutions. My role is to make sure the Qualys’s products and services are secure, safe and free from commonly seen client/server side vulnerabilities.
 
 Prior to Qualys, I was helping [SecureLayer7 Technologies](https://securelayer7.net/), a consulting firm, with penetration testing, vulnerability assessment,static and dynamic application security testing.
@@ -22,4 +23,4 @@ Attributed with [CVE-2017-14618](http://cve.mitre.org/cgi-bin/cvename.cgi?name=C
 I have been Acknowledged by Intel, Zenmate, Epic Privacy Browser, Eduonix, Eset, GroSum, [Internshala](https://internshala.com/hall_of_fame), [phpMyFAQ](http://www.phpmyfaq.de/security/advisory-2017-10-19), [KirbyCMS](https://getkirby.com/changelog/kirby-2-5-7), [SilverStripe](https://www.silverstripe.org/download/security-releases/ss-2017-007/
 ) & [ProjectSend](https://www.projectsend.org/change-log-detail/r1053/) for finding Security Vulnerabilities in their products.
 
-I am interested in learning various aspects of Software Security, Fuzzing, Exploit Development, and I intend to keep the list going on...
+I am interested in learning various aspects of Application & Software Security, Fuzzing, Exploit Development, and I intend to keep the list going on...
