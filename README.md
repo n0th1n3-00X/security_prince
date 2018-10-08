@@ -14,7 +14,7 @@ You can read about my work and learnings [here](http://blog.securelayer7.net/aut
 
 Technical skills I possess are Vulnerability Assessment and Penetration Testing, Web,Mobile & Thick Client Application Penetration Testing, Secure Code Review, Secure Configuration Audit, Network Security, Scripting.
 
-I have some hands-on experience on tools like Burpsuite, Nmap, Nessus, Metasploit, Jenkins, Dependency Check, Sonarqube, Nipper, ECHOMIRAGE, sysinternals suite.
+I have some hands-on experience on tools like Burpsuite, Nmap, Nessus, Metasploit, Jenkins, Dependency Check, Sonarqube, Nipper, ECHOMIRAGE, sysinternals suite, QualysGuard.
 
 Programming and Scripting Languages I can read & understand includes Python, Bash, PHP, XML, HTML, CSS, JavaScript.
 
