@@ -14,9 +14,9 @@ You can read about my work and learnings [here](http://blog.securelayer7.net/aut
 
 Technical skills I possess are Vulnerability Assessment and Penetration Testing, Web,Mobile & Thick Client Application Penetration Testing, Secure Code Review, Secure Configuration Audit, Network Security, Scripting.
 
-I have some hands-on experience on tools like Burpsuite, Nmap, Cycript, classdump-z, Nessus, Metasploit, Dex2jar, apktool, EchoMirage, SysinternalsSuite, Nipper.
+I have some hands-on experience on tools like Burpsuite, Nmap, Nessus, Metasploit, Jenkins, Dependency Check, Sonarqube, Nipper, ECHOMIRAGE, sysinternals suite.
 
-Programming and Scripting Languages I can read & understand includes Python, BASH, PHP, C/C++, JavaScript, XML, HTML, CSS & Assembly.
+Programming and Scripting Languages I can read & understand includes Python, Bash, PHP, XML, HTML, CSS, JavaScript.
 
 Attributed with [CVE-2017-14618](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-14618), [CVE-2017-14619](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-14619), [CVE-2017-15284](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15284), [CVE-2017-15878](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15878), [CVE-2017-15879](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-15879), [CVE-2017-16807](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-16807), [CVE-2017-18048](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-18048) & [CVE-2017-18049](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-18049)
 
