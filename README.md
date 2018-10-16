@@ -12,9 +12,9 @@ Apart from work related activities, I sometimes play ctfs on [hackthebox](https:
 
 You can read about my work and learnings [here](http://blog.securelayer7.net/author/ishaq/) and also on my personal [blog](https://securityprince.blogspot.in/).
 
-Vulnerability Assessment and Penetration Testing of Web Applications and Network, Secure Code Review, Threat Modelling, Secure Architecture/ Design Review.
+Technical Skills i possess are Vulnerability Assessment and Penetration Testing of Web Applications and Network, Secure Code Review, Threat Modelling, Secure Architecture/Design Review.
 
-I have some hands-on experience on tools like Burpsuite, Nmap, Nessus, Metasploit, Jenkins, Dependency Check, Sonarqube, Nipper, ECHOMIRAGE, sysinternals suite, QualysGuard.
+I have some hands-on experience on tools like Burpsuite, Nmap, Nessus, Metasploit, Jenkins, Dependency Check, Sonarqube, Jira, git, Github, BitBucket/Stash, Nipper, QualysGuard
 
 Programming and Scripting Languages I can read & understand includes Python, Bash, PHP, XML, HTML, CSS, JavaScript.
 
