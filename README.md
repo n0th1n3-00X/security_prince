@@ -5,7 +5,7 @@ I am working as a Product Security Analyst at [Qualys](http://www.qualys.com/), 
 
 Prior to Qualys, I was helping [SecureLayer7 Technologies](https://securelayer7.net/), a consulting firm, with penetration testing, vulnerability assessment,static and dynamic application security testing.
 
-At Qualys, I am responsible for Static Application Security testing (SAST) and Dynamic Application Security testing (DAST) for entire Qualys’s product portfolio.
+At Qualys, I am responsible for conducting Static Application Security testing (SAST), Dynamic Application Security testing (DAST), Threat Modelling, Secure Architecture/Design Review for entire [Qualys’s product portfolio](https://www.qualys.com/apps/).
 
 Apart from work related activities, I sometimes play ctfs on [hackthebox](https://www.hackthebox.eu/profile/477
 ) & [lab.pentestit.ru](https://lab.pentestit.ru/profile/security-prince) and open source security research.
