@@ -1,4 +1,4 @@
-Pentester Security Enthusiast Learner
+Pentester | Security Enthusiast | Learner
 
 Myself Ishaq Mohammed,
 I am working as a Product Security Analyst at [Qualys](http://www.qualys.com/), a leading provider of information security and compliance cloud solutions. My role is to make sure the Qualys’s products and services are secure, safe and free from commonly seen client/server side vulnerabilities.
@@ -10,7 +10,7 @@ At Qualys, I am responsible for Static Application Security testing (SAST) and D
 Apart from work related activities, I sometimes play ctfs on [hackthebox](https://www.hackthebox.eu/profile/477
 ) & [lab.pentestit.ru](https://lab.pentestit.ru/profile/security-prince) and open source security research.
 
-You can read about my work and learnings [here](http://blog.securelayer7.net/author/ishaq/) and also on my personal [blog](https://securityprince.blogspot.in/).
+You can read about my work and learnings [here](https://securityprince.blogspot.in/), [here](https://www.intseccode.com/author/security_prince/) and [here](http://blog.securelayer7.net/author/ishaq/)
 
 Technical Skills i possess are Vulnerability Assessment and Penetration Testing of Web Applications and Network, Secure Code Review, Threat Modelling, Secure Architecture/Design Review.
 
@@ -23,4 +23,4 @@ Attributed with [CVE-2017-14618](http://cve.mitre.org/cgi-bin/cvename.cgi?name=C
 I have been Acknowledged by Intel, Zenmate, Epic Privacy Browser, Eduonix, Eset, GroSum, [Internshala](https://internshala.com/hall_of_fame), [phpMyFAQ](http://www.phpmyfaq.de/security/advisory-2017-10-19), [KirbyCMS](https://getkirby.com/changelog/kirby-2-5-7), [SilverStripe](https://www.silverstripe.org/download/security-releases/ss-2017-007/
 ) & [ProjectSend](https://www.projectsend.org/change-log-detail/r1053/) for finding Security Vulnerabilities in their products.
 
-I am interested in learning various aspects of Application & Software Security, Fuzzing, Exploit Development, and I intend to keep the list going on...
+I am interested in learning various aspects of Application & Software Security, Security Automation and DevSecOps, Fuzzing, Exploit Development, and I intend to keep the list going on...
