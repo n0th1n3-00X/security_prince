@@ -1,7 +1,7 @@
 Pentester | Security Enthusiast | Learner
 
 Myself Ishaq Mohammed,
-I am working as a Product Security Analyst at [Qualys](http://www.qualys.com/), a leading provider of information security and compliance cloud solutions. My role is to make sure the Qualys’s products and services are secure, safe and free from commonly seen client/server side vulnerabilities.
+I am working as an Application Security Analyst at [Qualys](http://www.qualys.com/), a leading provider of information security and compliance cloud solutions. My role is to make sure the Qualys’s products and services are secure, safe and free from commonly seen client/server side vulnerabilities.
 
 Prior to Qualys, I was helping [SecureLayer7 Technologies](https://securelayer7.net/), a consulting firm, with penetration testing, vulnerability assessment,static and dynamic application security testing.
 
