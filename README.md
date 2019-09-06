@@ -12,7 +12,7 @@ Apart from work related activities, I sometimes play ctfs on [hackthebox](https:
 
 You can read about my work and learnings on my various blogs [here](https://about.me/security-prince)
 
-Technical Skills i possess are Vulnerability Assessment and Penetration Testing of Web Applications and Network, Secure Code Review, Threat Modelling, Secure Architecture/Design Review.
+Technical Skills i possess are Vulnerability Assessment and Penetration Testing of Web Applications and Network
 
 I have some hands-on experience on tools like Burpsuite, Nmap, Nessus, Metasploit, Jenkins, Dependency Check, Sonarqube, Jira, git, Github, BitBucket/Stash, Confluence, Nipper, QualysGuard
 
